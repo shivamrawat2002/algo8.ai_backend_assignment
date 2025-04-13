@@ -7,7 +7,7 @@ A Node.js based REST API system for user management with MongoDB integration.
 1. **Clone the repository**
 ```bash
 git clone <repository-url>
-cd aranb
+cd algo8.ai_backend_assignment
 ```
 
 2. **Install dependencies**
