@@ -1,13 +1,13 @@
 {
-  "name": "bharatloads-be",
+  "name": "algo-be",
   "version": "1.0.0",
-  "description": "Bharatloads Backend",
+  "description": "Backend",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "Arnab",
+  "author": "Shivam",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
